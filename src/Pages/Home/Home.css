@@ -11,8 +11,12 @@
 
 @media (max-width:900px) {
 
-    .large-container , .container{
+    .large-container {
         padding-left: 5%;
         padding-right: 5%;
     }
+    /* .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    } */
 }
